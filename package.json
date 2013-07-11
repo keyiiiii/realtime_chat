@@ -1,0 +1,22 @@
+{
+  "name": "realtime_chat",
+  "version": "0.0.0",
+  "description": "chat",
+  "main": "app.js",
+  "dependencies": {
+    "socket.io": "~0.9.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/keyiiiii/realtime_chat.git"
+  },
+  "keywords": [
+    "realtime_chat"
+  ],
+  "author": "keyi8773",
+  "license": "MIT"
+}
